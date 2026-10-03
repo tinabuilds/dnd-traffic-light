@@ -91,4 +91,4 @@ No supports needed. Print the lenses in clear PETG and everything else in black 
 
 ## License
 
-MIT
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) — free to build, remix and share with credit, as long as it is not for commercial use (no selling prints, kits or files).
