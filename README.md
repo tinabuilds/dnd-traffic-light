@@ -59,6 +59,12 @@ Wiring: strip DIN → **D1**, 5V → 5V, GND → GND. Don't use D0: it's a boot 
 
 Thread the wires through the pole **before** you solder.
 
+| Strip on the back cover | Strip going into the housing | XIAO soldered |
+|---|---|---|
+| ![Strip on the back cover](images/strip-on-cover.jpg) | ![Strip going into the housing](images/strip-in-housing.jpg) | ![XIAO soldered](images/xiao-soldered.jpg) |
+
+The strip sits in a channel on the inside of the back cover, so the LEDs line up with the lenses on their own.
+
 ## Firmware
 
 [`firmware/traffic_light_fw/traffic_light_fw.ino`](firmware/traffic_light_fw/traffic_light_fw.ino). Needs the Adafruit NeoPixel library.
